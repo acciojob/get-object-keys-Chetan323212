@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let student = {
+let obj = {
     name :"John"
 	
 }
@@ -11,7 +11,7 @@ function getKay(obj){
    
 }
 
-console.log(getKay(student))
+console.log(getKay(obj))
 
 
 console.log(getKay(student))
