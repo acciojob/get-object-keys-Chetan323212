@@ -1,7 +1,8 @@
 //your JS code here. If required.
 let student = {
-    name :"John"
-	
+    name :"John",
+	age: 30,
+	city: "New York"
 }
 
 
