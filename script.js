@@ -1,17 +1,17 @@
 //your JS code here. If required.
-let obj = {
+let student = {
     name :"John"
 	
 }
 
 
-function getKay(obj){
+function getKay(student){
    
-   return Object.keys(obj)
+   return Object.keys(student)
    
 }
 
-console.log(getKay(obj))
+console.log(getKay(student))
 
 
 console.log(getKay(student))
