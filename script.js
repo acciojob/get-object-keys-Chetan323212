@@ -1,10 +1,15 @@
 //your JS code here. If required.
-let obj = {
-	name: "chetan",
-	
-}
-function student(obj) {
-	return Object.keys(obj)
+let student = {
+    name :"John",
+    age : 21
 }
 
-student(obj)
+
+function getKay(obj){
+   
+   return Object.keys(obj)
+   
+}
+
+
+console.log(getKay(student))
