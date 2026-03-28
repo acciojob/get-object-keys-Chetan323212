@@ -1,7 +1,10 @@
 //your JS code here. If required.
 let student = {
     name :"John",
-    age : 21
+    age : 21,
+	class : 5,
+	
+	
 }
 
 
