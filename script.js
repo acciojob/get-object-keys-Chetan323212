@@ -6,13 +6,12 @@ let student = {
 }
 
 
-function getKay(student){
+function getKeys(student){
    
    return Object.keys(student)
    
 }
 
-console.log(getKay(student))
+console.log(getKeys(student))
 
 
-console.log(getKay(student))
