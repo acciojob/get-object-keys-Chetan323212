@@ -7,9 +7,9 @@ let student = {
 }
 
 
-function getKeys(student){
+function getKeys(obj){
    
-   return Object.keys(student)
+   return Object.keys(obj)
    
 }
 
